@@ -1,4 +1,4 @@
-# JARVIS-ChatGPT: A conversational assistant equipped with J.A.R.V.I.S's voice
+# JARVIS-ChatGPT-Slim: A conversational assistant equipped with J.A.R.V.I.S's voice
 **A voice-based interactive assistant equipped with a variety of synthetic voices (including J.A.R.V.I.S's voice from IronMan)**
 <p align="center">
   <img src="https://user-images.githubusercontent.com/49094051/227788148-a8ff8e06-86a4-41a6-aa53-8b7d6855360c.png"/>
@@ -6,6 +6,14 @@
 </p>
 
 Ever dreamed to ask hyper-intelligent system tips to improve your armor? Now you can! Well, maybe not the armor part... This project exploits OpenAI Whisper, OpenAI ChatGPT and IBM Watson.
+
+<p align="center"> <strong> ORIGINAL PROJECT:  </strong> </p> 
+Original project: https://github.com/gianmarcoguarnier/JARVIS-ChatGPT
+JARVIS-ChatGPT is an impressive project oriented towards a highly integrated assistant. The project is excellent at completing these goals while still not using very many costly resources and servicing multiple languages. But having these restrictions adds complexity and introduces inherent difficulty, so my goal with this slim version is to leverage simplicity and rapidly develop features to improve integration and provide possible paths of progression for similar projects.
+<br>
+<br>
+<br>
+
 <p align="center"> <strong> PROJECT MOTIVATION:  </strong> </p> 
 
 *Many times ideas come in the worst moment and they fade away before you have the time to explore them better. The objective of this project is to develop a system capable of giving tips and opinions in quasi-real-time about anything you ask. The ultimate assistant will be able to be accessed from any authorized microphone inside your house or your phone, it should run constantly in the background and when summoned should be able to generate meaningful answers (with a badass voice) as well as interface with the pc or a server and save/read/write files that can be accessed later. It should be able to run research, gather material from the internet (extract content from HTML pages, transcribe Youtube videos, find scientific papers...) and provide summaries that can be used as context to make informed decisions. In addition, it might interface with some external gadgets (IoT) but that's extra.*
